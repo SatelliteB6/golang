@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS role_stats;
+DROP TABLE IF EXISTS champion_stats;
+DROP TABLE IF EXISTS summoners;
